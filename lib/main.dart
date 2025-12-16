@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'app_Gmail.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(MyApp());//demarre app
 }
 
 class MyApp extends StatelessWidget {
